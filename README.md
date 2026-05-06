@@ -12,7 +12,8 @@ This is a simple Python quiz game project made by a beginner learner.
 ```bash
 python quiz.py
 
-##  How to play:
+
+## How to play:
 1.Run the program using Python
 2.Read each question carefully
 3.Choose your answer (a, b, or c)
